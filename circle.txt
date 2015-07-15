@@ -1,7 +1,6 @@
-
 package circle;
 import java.util.*;
-public class c {
+public class circle {
 	public static double getArea(double r){
 		return 	Math.PI*r*r;
 	    	 }
